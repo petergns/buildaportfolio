@@ -35,7 +35,7 @@ There are two files to edit in an editor.
 </ul>
 
 ### Portfolio Page when in Browser:
-![Image of Output](https://github.com/petergns/buildaportfolio/blob/master/img/buildportfolio.png)
+![Image of Output](https://github.com/petergns/buildaportfolio/blob/master/img/build-portfolio.PNG)
 
 ## Author
 [petergns](https://github.com/petergns)
