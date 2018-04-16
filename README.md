@@ -34,7 +34,7 @@ There are two files to edit in an editor.
   <li>style.css</li>
 </ul>
 
-### Meetup Map when in Browser:
+### Portfolio Page when in Browser:
 ![Image of Output](https://github.com/petergns/buildaportfolio/blob/master/img/buildportfolio.png)
 
 ## Author
