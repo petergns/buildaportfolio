@@ -1,4 +1,4 @@
-# buildaportfolio
+# Build a Portfolio
 Udacity - Build a Portfolio Page Project
 
 ## Set Up Instructions
