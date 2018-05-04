@@ -1,6 +1,8 @@
 # Build a Portfolio
 Udacity - Build a Portfolio Page Project
 
+Live Preview Link: https://petergns.github.io/
+
 ## Set Up Instructions
 Follow these instructions to set up the Website Project.
 
